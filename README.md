@@ -1,3 +1,8 @@
+<!--
+ * @Author: xxy
+ * @Date: 2021-10-12 16:15:51
+ * @Description: 
+-->
 ## Hi there 👋, I'm xxy
 
 **My Blog: [xxy's blog](https://xxy.im)** 
@@ -23,6 +28,8 @@ Here are some ideas to get you started:
   - Computer Vision
   - Deep Learning
   - Big Data
+  - iOS, Swift
+  - Qt
   
   
 
