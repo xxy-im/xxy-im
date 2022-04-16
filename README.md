@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:  
   - Computer Vision
   - Deep Learning
-  - Big Data
-  - iOS, Swift
+  - Multimedia
   - Qt
   
   
