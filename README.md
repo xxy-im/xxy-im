@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on quantitative trading and AI,using Rust and C++
+- 🔭 I'm currently working on quantitative trading and AI, using Rust and C++
 - 🌱 I’m currently focusing on:  
   - Developing and optimizing trading system
   - High-frequency market-making strategies
